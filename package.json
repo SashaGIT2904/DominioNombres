@@ -16,5 +16,18 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "description": "<!-- hide --> # Hello World with Vanilla JS",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaGIT2904/ExcusasJava.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaGIT2904/ExcusasJava/issues"
+  },
+  "homepage": "https://github.com/SashaGIT2904/ExcusasJava#readme"
 }
